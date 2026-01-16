@@ -6,3 +6,6 @@ for i in range(n):
     arr[i] = input_user
 
 print(arr)
+
+
+
