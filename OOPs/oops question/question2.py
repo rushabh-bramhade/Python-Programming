@@ -17,4 +17,4 @@ user_input_brand = input("Enter the car brand :")
 user_input_year = int(input("Enter the car year :"))
 
 car_1 = Car(user_input_brand,user_input_year)
-print(car_1.car_details())
+car_1.car_details()
