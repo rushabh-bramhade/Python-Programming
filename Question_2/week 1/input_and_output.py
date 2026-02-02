@@ -1,3 +1,5 @@
+# Q2. Take user input and display it back to the user.
+
 import datetime
 user_name = input("Enter your name :")
 user_age = input("Enter your age :")

@@ -1,4 +1,4 @@
-
+# Q3. Write a program to check if a number is even or odd.
 
 def even_odd():
     while True:
@@ -14,4 +14,5 @@ def even_odd():
         if choice == 2:
             print("program is successfully finished.")
             break
+
 even_odd()
